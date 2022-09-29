@@ -1,5 +1,3 @@
 # e-commerce_sequelize
 
-* [Demo Video]
-
-file:///Users/chichiulam/Downloads/Untitled_%20Sep%2029,%202022%204_48%20PM.webm
+* [Demo Video](https://drive.google.com/file/d/1FnTBUY60vzb2ixPU-L1car0YBqaH_74H/view)
